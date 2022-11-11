@@ -2,7 +2,7 @@
 
 **Analysis Overview:** The analysis is focused on comparing ride-sharing among different type of cities (Urban, Suburban or Rural) specifically focusing on three variables: rides, drivers and fares per city.
 
-
+FaresbyCityType.png
 
 #### Election results
 

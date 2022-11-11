@@ -2,6 +2,8 @@
 
 **Analysis Overview:** The analysis is focused on comparing ride-sharing among different type of cities (Urban, Suburban or Rural) specifically focusing on three variables: rides, drivers and fares per city.
 
+![pybersummary](https://github.com/alosmad/PyBer_Analysis/blob/836a599f5776c2a73e3804cdc080f9e9d70d9b27/pybersummary.png)
+
 ![FaresbyCityType](https://github.com/alosmad/PyBer_Analysis/blob/306666cedd2fcbcf94ae280fd4b60528566e49ce/FaresbyCityType.png)
 
 #### Election results
